@@ -1,0 +1,13 @@
+Go to about:config
+
+Search for vp9 and set all vp9 related settings to false
+
+Search for h264 and set all h264 related settings to true
+
+It will disable vp9 and use h264 with opus audio
+
+However,videos will not be available for higher resolutions than 1080p60fps
+
+
+
+https://old.reddit.com/r/firefox/comments/xnc51q/try_this_if_youtube_is_lagging_on_your_low_spec/
