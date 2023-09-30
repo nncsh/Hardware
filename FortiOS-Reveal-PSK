@@ -1,0 +1,5 @@
+https://sadrithmina.de/posts/2023/06/fortigate-recover-ipsec-vpn-psk/
+
+First log in to your FortiGate at https://x.x.x.x
+
+Now visit https://x.x.x.x/api/v2/cmdb/vpn.ipsec/phase1-interface?plain-text-password=1
